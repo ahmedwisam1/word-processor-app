@@ -1,8 +1,3 @@
-# word-processor-app
-
-
----
-
 # Word Processor
 
 A graphical word processor implemented in Python using the Tkinter library. This application allows users to create, edit, and format text documents with various features including file management, text formatting, find and replace functionality, and more.
